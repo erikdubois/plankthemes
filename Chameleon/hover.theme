@@ -1,0 +1,17 @@
+#This theme was modified by http://www.on-the-fly.deviantart.com
+
+[PlankDrawingTheme]
+#The roundness of the top corners.
+TopRoundness=5
+#The roundness of the bottom corners.
+BottomRoundness=.5
+#The thickness (in pixels) of lines drawn.
+LineWidth=.5
+#The color (RGBA) of the outer stroke.
+OuterStrokeColor=41;;41;;41;;255
+#The starting color (RGBA) of the fill gradient.
+FillStartColor=35;;35;;35;;210
+#The ending color (RGBA) of the fill gradient.
+FillEndColor=0;;0;;0;;210
+#The color (RGBA) of the inner stroke.
+InnerStrokeColor=255;;255;;255;;255

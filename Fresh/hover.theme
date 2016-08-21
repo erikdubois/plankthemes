@@ -1,0 +1,17 @@
+#  Fresh, a Plank theme by Matheus Ligabue. Part of Fresh, a theme suite for Pantheon.
+
+[PlankDrawingTheme]
+#The roundness of the top corners.
+TopRoundness=4
+#The roundness of the bottom corners.
+BottomRoundness=4
+#The thickness (in pixels) of lines drawn.
+LineWidth=1
+#The color (RGBA) of the outer stroke.
+OuterStrokeColor=250;;250;;250;;70
+#The starting color (RGBA) of the fill gradient.
+FillStartColor=0;;0;;0;;200
+#The ending color (RGBA) of the fill gradient.
+FillEndColor=0;;0;;0;;200
+#The color (RGBA) of the inner stroke.
+InnerStrokeColor=0;;0;;0;;250

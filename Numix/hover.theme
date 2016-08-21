@@ -1,0 +1,17 @@
+# This file was wrote by me4oslav to theme the tooltips match his Numix theme.
+
+[PlankDrawingTheme]
+#The roundness of the top corners.
+TopRoundness=2
+#The roundness of the bottom corners.
+BottomRoundness=2
+#The thickness (in pixels) of lines drawn.
+LineWidth=1
+#The color (RGBA) of the outer stroke.
+OuterStrokeColor=72;;72;;72;;255
+#The starting color (RGBA) of the fill gradient.
+FillStartColor=45;;45;;45;;255
+#The ending color (RGBA) of the fill gradient.
+FillEndColor=45;;45;;45;;255
+#The color (RGBA) of the inner stroke.
+InnerStrokeColor=45;;45;;45;;255

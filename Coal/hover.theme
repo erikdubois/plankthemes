@@ -1,0 +1,18 @@
+##Coal plank theme by ~srff :: srff.deviantart.com
+#2013-01-10T19:24:33+0000
+
+[PlankDrawingTheme]
+#The roundness of the top corners.
+TopRoundness=2
+#The roundness of the bottom corners.
+BottomRoundness=2
+#The thickness (in pixels) of lines drawn.
+LineWidth=1
+#The color (RGBA) of the outer stroke.
+OuterStrokeColor=20;;20;;20;;255
+#The starting color (RGBA) of the fill gradient.
+FillStartColor=28;;28;;28;;255
+#The ending color (RGBA) of the fill gradient.
+FillEndColor=28;;28;;28;;255
+#The color (RGBA) of the inner stroke.
+InnerStrokeColor=28;;28;;28;;255

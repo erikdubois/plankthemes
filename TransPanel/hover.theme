@@ -1,0 +1,17 @@
+#This file written by Cassidy James to match his dock theme.
+
+[PlankDrawingTheme]
+#The roundness of the top corners.
+TopRoundness=5
+#The roundness of the bottom corners.
+BottomRoundness=5
+#The thickness (in pixels) of lines drawn.
+LineWidth=0
+#The color (RGBA) of the outer stroke.
+OuterStrokeColor=0;;0;;0;;95
+#The starting color (RGBA) of the fill gradient.
+FillStartColor=40;;40;;40;;175
+#The ending color (RGBA) of the fill gradient.
+FillEndColor=40;;40;;40;;175
+#The color (RGBA) of the inner stroke.
+InnerStrokeColor=75;;75;;75;;255

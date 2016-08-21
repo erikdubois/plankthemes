@@ -1,0 +1,84 @@
+# Placmank
+# The MIT License (MIT)
+# Copyright (c) 2016 Igor Dyatlov
+#
+#  Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+#
+#  The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+#
+#  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+#
+
+[PlankTheme]
+#The roundness of the top corners.
+TopRoundness=10
+#The roundness of the bottom corners.
+BottomRoundness=0
+#The thickness (in pixels) of lines drawn.
+LineWidth=1
+#The color (RGBA) of the outer stroke.
+OuterStrokeColor=70;;70;;70;;125
+#The starting color (RGBA) of the fill gradient.
+FillStartColor=182;;182;;182;;195
+#The ending color (RGBA) of the fill gradient.
+FillEndColor=152;;152;;152;;255
+#The color (RGBA) of the inner stroke.
+InnerStrokeColor=255;;255;;255;;245
+
+[PlankDockTheme]
+#The padding on the left/right dock edges, in tenths of a percent of IconSize.
+HorizPadding=0
+#The padding on the top dock edge, in tenths of a percent of IconSize.
+TopPadding=2
+#The padding on the bottom dock edge, in tenths of a percent of IconSize.
+BottomPadding=1.5
+#The padding between items on the dock, in tenths of a percent of IconSize.
+ItemPadding=2
+#The size of item indicators, in tenths of a percent of IconSize.
+IndicatorSize=3
+#The size of the icon-shadow behind every item, in tenths of a percent of IconSize.
+IconShadowSize=1
+#The height (in percent of IconSize) to bounce an icon when the application sets urgent.
+UrgentBounceHeight=1.6666666666666667
+#The height (in percent of IconSize) to bounce an icon when launching an application.
+LaunchBounceHeight=0.625
+#The opacity value (0 to 1) to fade the dock to when hiding it.
+FadeOpacity=1
+#The amount of time (in ms) for click animations.
+ClickTime=400
+#The amount of time (in ms) to bounce an urgent icon.
+UrgentBounceTime=600
+#The amount of time (in ms) to bounce an icon when launching an application.
+LaunchBounceTime=600
+#The amount of time (in ms) for active window indicator animations.
+ActiveTime=300
+#The amount of time (in ms) to slide icons into/out of the dock.
+SlideTime=500
+#The time (in ms) to fade the dock in/out on a hide (if FadeOpacity is < 1).
+FadeTime=250
+#The time (in ms) to slide the dock in/out on a hide (if FadeOpacity is 1).
+HideTime=250
+#The size of the urgent glow (shown when dock is hidden), in tenths of a percent of IconSize.
+GlowSize=30
+#The total time (in ms) to show the hidden-dock urgent glow.
+GlowTime=10
+#The time (in ms) of each pulse of the hidden-dock urgent glow.
+GlowPulseTime=20
+#The hue-shift (-180 to 180) of the urgent indicator color.
+UrgentHueShift=150
+#The time (in ms) to move an item to its new position or its addition/removal to/from the dock.
+ItemMoveTime=250
+#Whether background and icons will unhide/hide with different speeds. The top-border of both will leave/hit the screen-edge at the same time.
+CascadeHide=false
