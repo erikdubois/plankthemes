@@ -13,7 +13,7 @@ Your distro does not have it in its standard repositories.
  	sudo apt-get update
  	sudo apt-get install plank
 
- # Installing the themes.
+# Installing the themes.
 
 
  Download this github and unzip.
@@ -29,16 +29,21 @@ Your distro does not have it in its standard repositories.
 
 # Use CTRL + right mouse click on the plank to get to the preferences
 
-![Screenshots]()
+# Some examples
 
 
 
-![Screenshots]()
+![Screenshots](http://i.imgur.com/Sp6Goux.png)
 
 
-# Examples
 
-Making pictures of all of them and uploading them to github would take to much time and effort.
+![Screenshots](http://i.imgur.com/cbIxZZ6.png)
+
+
+
+# Rest of the examples
+
+Making pictures of all of the themes and uploading them to github would take to much time and effort.
 
 Hence this nice Youtube movie.
 
