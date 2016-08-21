@@ -41,7 +41,7 @@ Making pictures of all of them and uploading them to github would take to much t
 Hence this nice Youtube movie.
 
 
-<a target="_blank" href="https://www.youtube.com/watch?v=mymzR-4hafQ&list=PLlloYVGq5pS43s05ltH9xh7paFteoT7UB">
+<a target="_blank" href="https://youtu.be/BuE81uFMxR8">
 <img style="max-width:100%;" src="http://i.imgur.com/QT3sh7p.png">
 </a> 
 
