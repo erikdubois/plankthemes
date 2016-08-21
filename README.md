@@ -27,6 +27,8 @@ Your distro does not have it in its standard repositories.
  	/usr/share/plank/themes
 
 
+# Use CTRL + right mouse click on the plank to get to the preferences
+
 ![Screenshots]()
 
 
