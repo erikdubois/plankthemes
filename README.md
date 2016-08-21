@@ -42,6 +42,6 @@ Hence this nice Youtube movie.
 
 
 <a target="_blank" href="https://youtu.be/BuE81uFMxR8">
-<img style="max-width:100%;" src="http://i.imgur.com/QT3sh7p.png">
+<img style="max-width:100%;" src="http://i.imgur.com/oBJD5AK.png">
 </a> 
 
