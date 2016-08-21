@@ -40,6 +40,7 @@ Making pictures of all of them and uploading them to github would take to much t
 
 Hence this nice Youtube movie.
 
+# Click on the picture beneath to see the latest youtube of the collection.
 
 <a target="_blank" href="https://youtu.be/BuE81uFMxR8">
 <img style="max-width:100%;" src="http://i.imgur.com/oBJD5AK.png">
