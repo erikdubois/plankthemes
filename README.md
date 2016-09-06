@@ -42,7 +42,6 @@ Your distro does not have it in its standard repositories.
 It has been created to fit the Mint-Y theme on Linux Mint 18 cinnamon.
 
 
-
 # Some examples
 
 
