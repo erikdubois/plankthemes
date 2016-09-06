@@ -39,7 +39,7 @@ Your distro does not have it in its standard repositories.
 
 ![Screenshots](http://i.imgur.com/bJYw3Rb.png)
 
-
+It has been created to fit the Mint-Y theme on Linux Mint 18 cinnamon.
 
 
 
