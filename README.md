@@ -29,6 +29,20 @@ Your distro does not have it in its standard repositories.
 
 # Use CTRL + right mouse click on the plank to get to the preferences
 
+
+
+
+# Personal creation
+
+
+# Mint-Y Plank theme
+
+![Screenshots](http://i.imgur.com/bJYw3Rb.png)
+
+
+
+
+
 # Some examples
 
 
