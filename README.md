@@ -37,9 +37,11 @@ Your distro does not have it in its standard repositories.
 
 # Mint-Y Plank theme
 
+It has been created to fit the Mint-Y theme on Linux Mint 18 cinnamon.
+
 ![Screenshots](http://i.imgur.com/bJYw3Rb.png)
 
-It has been created to fit the Mint-Y theme on Linux Mint 18 cinnamon.
+
 
 
 # Some examples
