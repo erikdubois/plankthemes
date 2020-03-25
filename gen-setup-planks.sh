@@ -13,7 +13,9 @@ find `pwd` -mindepth 1 -maxdepth 1 -type d | \
 	 awk --field-separator='\t\t' $'{ print "if [ -e $\'" $2 "\' ]; then echo $\'" $2 " already exists.\'; else ln -s $\'" $1 "\' " "$\'" $2 "\'; fi"  } ' > install-plank-theme-links.sh
 
 # Find all directories not named .git within this directory, then add a destination string, add tabs, split on tabs, then quote string in a command for unlinking into uninstall-plank-theme-links.sh
-find `pwd` -mindepth 1 -maxdepth 1 -type d | egrep -v '.git' | awk --field-separator='/' '{ print $0 "\t\t/usr/share/plank/themes/" $NF }' | awk --field-separator='\t\t' $'{ print "unlink $\'" $2 "\'"  } ' > uninstall-plank-theme-links.sh
+find `pwd` -mindepth 1 -maxdepth 1 -type d | egrep -v '.git' | \
+	awk -v awk_plank_theme_dir=$plank_theme_dir --field-separator='/' '{ print awk_plank_theme_dir $NF }' | \
+	awk $'{ print "unlink $\'" $0 "\'"  } ' > uninstall-plank-theme-links.sh
 
 # Make sh scripts install
 chmod u+x install-plank-theme-links.sh
