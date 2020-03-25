@@ -26,6 +26,21 @@ Your distro does not have it in its standard repositories.
 
  	/usr/share/plank/themes
 
+# Installing themes using symbolic links
+
+Download this github and unzip. 
+
+To generate uninstall and install scripts (can run after new entries are added to update)
+
+	./gen-setup-planks.sh
+
+Then, to install:
+
+	./install-plank-theme-links.sh 
+	
+or, to uninstall:
+
+	./uninstall-plank-theme-links.sh
 
 # Use CTRL + right mouse click on the plank to get to the preferences
 
